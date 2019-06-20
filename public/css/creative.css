@@ -10,6 +10,10 @@
    height: 100%;
  }
 
+ #estilo1{color:#000000;background:#dab839;}
+ #estilo2{color:#fff;background:#296600;}
+
+
  *{
    margin: 0;
    padding: 0;
