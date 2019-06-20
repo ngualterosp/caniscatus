@@ -12,31 +12,49 @@
 
 <!-- Portfolio Section -->
 <br>
-<h2 class="text-center text-uppercase text-secondary mb-0">Galería caniscatus</h2>
-<center>
-  <hr class="divider my-4">
-</center>
-<div id="portfolio">
+<div class="container">
+			<div class="row align-items-center">
+				<div class="col">
+
+				<div>
+
+        <div class="section-title" >
+						<h1>Galería CANISCATUS S.A.S.</h1>
+          </div>
+          <hr class="divider my-4">
+					<div class="mb-50 wow fadeIn" data-wow-duration=".8s">
+						<h4 align="justify">
+            ¡Los animales son compañía, vida y alegría… disfrútalos, respétalos y protégelos!
+                <br>Conoce más de Caniscatus:
+            </h4>
+						
+					</div>
+					
+				</div>
+			</div>
+		</div>
+<br>
+<br>
 
 
-<div class="container-fluid p-0">
-  <div class="row no-gutters">
+<div class="container-fluid p-0" hspace="10" vspace="10">
+  <div class="row no-gutters" >
 
     <div class="col-lg-4 col-sm-6">
-      <a class="portfolio-box" href="img/galeria.png">
-        <img class="img-fluid" id="timg" src="img/galeria.png" alt="">
+      <a class="portfolio-box" href="img/galeria.png" >
+        <img  src="img/galeria.png" alt="" hspace="10" vspace="10">
       </a>
     </div>
 
     <div class="col-lg-4 col-sm-6">
       <a class="portfolio-box" href="img/galeria1.png">
-        <img class="img-fluid" id="timg" src="img/galeria1.png" alt="">
+        <img  src="img/galeria1.png" alt="" hspace="10" vspace="10">
       </a>
     </div>
 
     <div class="col-lg-4 col-sm-6">
       <a class="portfolio-box" href="img/galeria2.png">
-        <img class="img-fluid" id="timg" src="img/galeria2.png" alt="">
+        <img  src="img/galeria2.png" alt="" hspace="10" vspace="10">
       </a>
     </div>
 
