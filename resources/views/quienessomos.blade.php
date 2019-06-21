@@ -3,9 +3,6 @@
 
  <!-- Masthead -->
  <div id="demo" class="carousel slide" data-ride="carousel">
-
-  
-  
 <!-- The slideshow -->
 <div class="container">
 <div class="row">
@@ -35,9 +32,8 @@
 </div>
 
 </div>
+<br>
  
- <section class="about-area section-gap">
-
  <div class="container">
 			<div class="row align-items-center">
 				<div class="col">
@@ -74,10 +70,10 @@ experiencia agradable a su mascota; haciéndolo sentir como en casa.
           </div>
           <hr align="left" noshade="noshade" size="10" width="80%" />
 					<div class="mb-50 wow fadeIn" data-wow-duration=".8s">
-						<h5 align="justify">
+						<h4 align="justify">
             Es una empresa que provee servicios de Manejo y Cuidado animal, con la más alta calidad y calidez. Así mismo, incentivamos la corresponsabilidad
             y sensibilidad frente a la vida y cuidado de los animales de compañía dentro y fuera de casa.
-</h5>
+</h4>
 					</div>
           </div>
 
@@ -108,10 +104,10 @@ experiencia agradable a su mascota; haciéndolo sentir como en casa.
           <hr align="left" noshade="noshade" size="10" width="80%" />
 
 					<div class="mb-50 wow fadeIn" data-wow-duration=".8s" >
-						<h5 align="justify" id="estilo2">
+						<h4 align="justify" id="estilo2">
             Será la mejor empresa proveedora de servicios de manejo y cuidado de los animales de compañía, cumpliendo con los Estándares de Calidad y Bienestar Animal a nivel
             Distrital y Nacional. Siendo líderes en el gremio de las Guarderías Caninas y Hoteles Caninos y Felinos.
-</h5>
+</h4>
 						
 					</div>
           </div>
@@ -121,7 +117,7 @@ experiencia agradable a su mascota; haciéndolo sentir como en casa.
 		</div>
 
     
-	</section>
+	
   
 
 
