@@ -1,15 +1,45 @@
 @extends('layouts.app')
 @section('content')
 <!-- Services Section -->
+<<!-- Services Section -->
 <section class="page-section" id="servicios">
   <div class="container">
-    <h2 class="text-center mt-0">Nuestros Servicios</h2>
-    <center>
-      <hr class="divider my-4">
-    </center>
+   
+ <!-- Masthead -->
+ <div id="demo" class="carousel slide" data-ride="carousel">
 
-<section class="gray-bg section-padding" id="service-page">
-        <div class="container">
+  
+  
+<!-- The slideshow -->
+<div class="container">
+<div class="row">
+  <div class="col" aling="center">
+    <!-- Indicators -->
+    <center>
+<ul class="carousel-indicators">
+  <li data-target="#demo" data-slide-to="0" class="active"></li>
+
+</ul>
+      <div class="carousel-inner">
+          <div class="carousel-item active" >
+            <img src="img/ns.jpg" alt="1" class="d-block w-100" >
+          </div>
+        </div>
+      
+      
+      <!-- Left and right controls -->
+      <a class="carousel-control-prev" href="#demo" data-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+      </a>
+      <a class="carousel-control-next" href="#demo" data-slide="next">
+        <span class="carousel-control-next-icon"></span>
+      </a>
+    </center>
+  </div>
+</div>
+
+</div>
+
             <div class="row">
                 <div class="col">
                     <div class="box">
