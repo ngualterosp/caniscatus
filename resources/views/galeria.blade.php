@@ -37,84 +37,119 @@
 <br>
 
 
-<div class="container-fluid p-0" hspace="10" vspace="10">
-  <div class="row no-gutters" >
+<div class="container gallery-container">
+    <div class="tz-gallery">
+  
+        <div class="row mb-3">
+            <div class="col-md-4">
+                <div class="card">
+                    <a class="lightbox" href="img/galeria.png">
+                    <img src="img/galeria.png" alt="Park" class="card-img-top">
+                    </a>
+                </div>
+            </div>
+             
+            <div class="col-md-4">
+                <div class="card">
+                    <a class="lightbox" href="img/galeria1.png">
+                    <img src="img/galeria1.png" alt="Park" class="card-img-top">
+                    </a>
+                </div>
+            </div>
+             
+            <div class="col-md-4">
+                <div class="card">
+                    <a class="lightbox" href="img/galeria2.png">
+                    <img src="img/galeria2.png" alt="Park" class="card-img-top">
+                    </a>
+                </div>
+            </div>
+        </div>
+          
+        <div class="row mb-3">
+            <div class="col-md-4">
+                <div class="card">
+                    <a class="lightbox" href="img/galeria3.png">
+                    <img src="img/galeria3.png" alt="Park" class="card-img-top">
+                    </a>
+                </div>
+            </div>
+             
+            <div class="col-md-4">
+                <div class="card">
+                    <a class="lightbox" href="img/galeria4.png">
+                    <img src="img/galeria4.png" alt="Park" class="card-img-top">
+                    </a>
+                </div>
+            </div>
+             
+            <div class="col-md-4">
+                <div class="card">
+                    <a class="lightbox" href="img/galeria5.png">
+                    <img src="img/galeria5.png" alt="Park" class="card-img-top">
+                    </a>
+                </div>
+            </div>
+</div>
 
-    <div class="col-lg-4 col-sm-6">
-      <a class="portfolio-box" href="img/galeria.png" >
-        <img  src="img/galeria.png" alt="" hspace="10" vspace="10">
-      </a>
+            <div class="row mb-3">
+            <div class="col-md-4">
+                <div class="card">
+                    <a class="lightbox" href="img/galeria9.png">
+                    <img src="img/galeria9.png" alt="Park" class="card-img-top">
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card">
+                    <a class="lightbox" href="img/galeria10.png">
+                    <img src="img/galeria10.png" alt="Park" class="card-img-top">
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card">
+                    <a class="lightbox" href="img/galeria11.jpeg">
+                    <img src="img/galeria11.jpeg" alt="Park" class="card-img-top">
+                    </a>
+                </div>
+            </div>
+</div>
+
+<div class="row mb-3">
+            <div class="col-md-4">
+                <div class="card">
+                    <a class="lightbox" href="img/galeria6.png">
+                    <img src="img/galeria6.png" alt="Park" class="card-img-top">
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card">
+                    <a class="lightbox" href="img/galeria7.png">
+                    <img src="img/galeria7.png" alt="Park" class="card-img-top">
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card">
+                    <a class="lightbox" href="img/galeria8.png">
+                    <img src="img/galeria8.png" alt="Park" class="card-img-top">
+                    </a>
+                </div>
+            </div>
+</div>
+         
+        </div>
+  
     </div>
-
-    <div class="col-lg-4 col-sm-6">
-      <a class="portfolio-box" href="img/galeria1.png">
-        <img  src="img/galeria1.png" alt="" hspace="10" vspace="10">
-      </a>
-    </div>
-
-    <div class="col-lg-4 col-sm-6">
-      <a class="portfolio-box" href="img/galeria2.png">
-        <img  src="img/galeria2.png" alt="" hspace="10" vspace="10">
-      </a>
-    </div>
-
-    <div class="col-lg-4 col-sm-6">
-      <a class="portfolio-box" href="img/galeria3.png">
-        <img class="img-fluid" id="timg" src="img/galeria3.png" alt="">
-      </a>
-    </div>
-
-    <div class="col-lg-4 col-sm-6">
-      <a class="portfolio-box" href="img/galeria4.png">
-        <img class="img-fluid" id="timg" src="img/galeria4.png" alt="">
-      </a>
-    </div>
-
-    <div class="col-lg-4 col-sm-6">
-      <a class="portfolio-box" href="img/galeria5.png">
-        <img class="img-fluid" id="timg" src="img/galeria5.png" alt="">
-      </a>
-    </div>
-
-    <div class="col-lg-4 col-sm-6">
-      <a class="portfolio-box" href="img/galeria9.png">
-        <img class="img-fluid" id="timg" src="img/galeria9.png" alt="">
-      </a>
-    </div>
-
-    <div class="col-lg-4 col-sm-6">
-      <a class="portfolio-box" href="img/galeria10.png">
-        <img class="img-fluid" id="timg" src="img/galeria10.png" alt="">
-      </a>
-    </div>
-
-    <div class="col-lg-4 col-sm-6">
-      <a class="portfolio-box" href="img/galeria11.jpeg">
-        <img class="img-fluid" id="timg" src="img/galeria11.jpeg" alt="">
-      </a>
-    </div>
-
-    <div class="col-lg-4 col-sm-6">
-      <a class="portfolio-box" href="img/galeria6.png">
-        <img class="img-fluid" id="timg" src="img/galeria6.png" alt="">
-      </a>
-    </div>
-
-    <div class="col-lg-4 col-sm-6">
-      <a class="portfolio-box" href="img/galeria7.png">
-        <img class="img-fluid" id="timg" src="img/galeria7.png" alt="">
-      </a>
-    </div>
-
-    <div class="col-lg-4 col-sm-6">
-      <a class="portfolio-box" href="img/galeria8.png">
-        <img class="img-fluid" id="timg" src="img/galeria8.png" alt="">
-      </a>
-    </div>
-
-    
-
-  </div>
+  
+</div>
+ 
 </div>
 
   @endsection
