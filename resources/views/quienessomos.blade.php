@@ -49,7 +49,7 @@ experiencia agradable a su mascota; haciéndolo sentir como en casa.
           <div class="col-lg-6">
             <div class="image-absolute-box">
              
-              <img src="img/bg-masthead.jpg" alt="Image" class="img-fluid img-shadow">
+              <img src="img/mision.jpg" alt="Image" class="img-fluid img-shadow">
             </div>
           </div>
         </div>
@@ -62,7 +62,7 @@ experiencia agradable a su mascota; haciéndolo sentir como en casa.
     <div class="col-lg-6">
             <div class="image-absolute-box">
              
-              <img src="img/bg-masthead.jpg" alt="Image" class="img-fluid img-shadow">
+              <img src="img/vision.jpg" alt="Image" class="img-fluid img-shadow">
             </div>
           </div>
           <div class="col-lg-5 mr-auto mb-5 align-self-center" >
