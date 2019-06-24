@@ -4,6 +4,37 @@
 
 <link rel="stylesheet" href="">
 
+<!-- The slideshow -->
+<div class="container">
+<div class="row">
+  <div class="col" aling="center">
+    <!-- Indicators -->
+    <center>
+<ul class="carousel-indicators">
+  <li data-target="#demo" data-slide-to="0" class="active"></li>
+
+</ul>
+      <div class="carousel-inner">
+          <div class="carousel-item active" >
+            <img src="img/banner-c.jpg" alt="1" class="d-block w-100" >
+          </div>
+        </div>
+      
+      
+      <!-- Left and right controls -->
+      <a class="carousel-control-prev" href="#demo" data-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+      </a>
+      <a class="carousel-control-next" href="#demo" data-slide="next">
+        <span class="carousel-control-next-icon"></span>
+      </a>
+    </center>
+  </div>
+</div>
+
+</div>
+
+
 <!-- Contact Section -->
 <br>
     <div class="container">

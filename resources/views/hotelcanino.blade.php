@@ -1,10 +1,6 @@
 @extends('layouts.app')
 @section('content')
-<!-- Services Section -->
-<!-- Services Section -->
-<section class="page-section" id="servicios">
-  <div class="container">
-   
+
  <!-- Masthead -->
  <div id="demo" class="carousel slide" data-ride="carousel">
 
@@ -39,32 +35,46 @@
 </div>
 
 </div>
-            <div class="row">
-                <div class="col">
+
+<style>
+.box {
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    max-width: 50%;
+}
+
+</style>
+<!-- Services Section -->
+<section class="page-section" id="servicios">
+  <div class="container">
+           <div class="row" >
+                <div class="col" max-width: 50%;>
+                <center>
                     <div class="box">
                     <h4>Hotel Canino</h4></br></br>
                         <div class="box-icon">
                             <img src="img/3op.png" width="150px" alt="">
-                        </div>
+                            </div>
                     </div>
                 </div>
+                </center>
 
+                </div>
                 <div class="col">
+                <center>
                     <div class="box">
                     </br></br>
-                    <p align="justify">Caniscatus ofrece a tu perro (a) comodas habitaciones, dotadas con los elementos necesarios para brindar la mejor comodidad y bienestar durante su estadía nocturna. Adicionalmente,  durante el día estará en espacios libres en compañía de otras mascotas, para ejercitarse y realizar procesos de socialización, contando con el servicio veterinario básico las 24 horas, al cuidado de personal capacitado para dicha labor
+                    <h5> <p align="justify">Caniscatus ofrece a tu perro (a) cómodas habitaciones, dotadas con los elementos necesarios para brindar la mejor comodidad y bienestar durante su estadía nocturna. Adicionalmente, durante el día estará en espacios libres en compañía de otras mascotas, para ejercitarse y realizar procesos de socialización, contando con el servicio veterinario básico las 24 horas, al cuidado de personal capacitado para dicha labor.
               </br>
-              </br>
+              </br></h5>
                         </p>
                     </div>
                 </div>
 
 
              
-      
-      </div>
-      </div>
-      
    
 				
 
