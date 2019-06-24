@@ -1,9 +1,7 @@
 @extends('layouts.app')
 @section('content')
 <!-- Services Section -->
-<<!-- Services Section -->
-<section class="page-section" id="servicios">
-  <div class="container">
+
    
  <!-- Masthead -->
  <div id="demo" class="carousel slide" data-ride="carousel">
@@ -40,8 +38,22 @@
 
 </div>
 
-            <div class="row">
-                <div class="col">
+<style>
+.box {
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    max-width: 50%;
+}
+
+</style>
+<!-- Services Section -->
+<section class="page-section" id="servicios">
+  <div class="container">
+           <div class="row" >
+                <div class="col" max-width: 50%;>
+                <center>
                     <div class="box">
                     <h4>Grooming (SPA, Peluquería)</h4></br></br>
                         <div class="box-icon">
@@ -49,20 +61,22 @@
                         </div>
                     </div>
                 </div>
+                </center>
 
-                <div class="col">
+                </div>
+      <div class="col" width="50px" >
+      <center>
                     <div class="box">
                     </br></br>
-                    <p align="justify">Además de que tu mascota se ejercite, Caniscatus ofrece un tratamiento para que tu perro o gato esté lo mas tranquilo y limpio posible, recibiendo en el SPA un masaje y baño relajante y reconfortante. Asi mismo ofrecemos sesiones de baño y tecnicas peluqeria, corte de uñas, lavado de dientes entre otras actividades que haran que tu mascota llegue a casa con su pelo brillante y una actitud relajada. 
-              </br></br>
+                    <h5><p align="justify">Además de que tu mascota se ejercite, Caniscatus ofrece un tratamiento para que tu perro o gato esté lo más tranquilo y limpio posible, recibiendo en el SPA un masaje y baño relajante y reconfortante. Así mismo ofrecemos sesiones de baño y técnicas peluquería, corte de uñas, lavado de dientes entre otras actividades que harán que tu mascota llegue a casa con su pelo brillante y una actitud relajada.
+              </br></br></h5>
                         </p>
                     </div>
                 </div>
 
 
              
-      </div>
-      </div>
+    
       
       
    
@@ -86,8 +100,8 @@
 <div class="container-fluid p-0">
   <div class="row no-gutters">
     <div class="col-lg-4 col-sm-6">
-      <a class="portfolio-box" href="img/grooming y spa 1.png">
-        <img class="img-fluid" id="timg" src="img/grooming y spa 1.png" alt="">
+      <a class="portfolio-box" href="img/g2.png">
+        <img class="img-fluid" id="timg" src="img/g2.png" alt="">
       </a>
     </div>
 

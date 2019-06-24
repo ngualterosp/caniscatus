@@ -1,9 +1,6 @@
 @extends('layouts.app')
 @section('content')
-<!-- Services Section -->
-<section class="page-section" id="servicios">
-  <div class="container">
-   
+
  <!-- Masthead -->
  <div id="demo" class="carousel slide" data-ride="carousel">
 
@@ -38,31 +35,49 @@
 </div>
 
 </div>
-            <div class="row">
-                <div class="col">
+
+<style>
+.box {
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    max-width: 50%;
+}
+
+</style>
+
+<!-- Services Section -->
+<section class="page-section" id="servicios">
+  <div class="container">
+            <div class="row" >
+                <div class="col" max-width: 50%;>
+                <center>
                     <div class="box">
                     <h4>Hotel Felino</h4></br></br>
                         <div class="box-icon">
                             <img src="img/3op.png" width="150px" alt="">
-                        </div>
+                            </div>
                     </div>
+                </div>
+                </center>
+
                 </div>
 
                 <div class="col">
+                <center>
                     <div class="box">
                     </br>
-                    <p align="justify">Caniscatus ofrece a tu felino, un ambiente tranquilo, implementando las tecnicas de musicoterapia y aromaterapia, para llegar a niveles de comodidad maximos, evitando el estres  de estar fuera de casa.  En el hotel encontraras una suit con lo necesario. 
-En la zona catus de nuestra empresa, tu felino tendra acceso a una zona libre, en la que podra tener oportunidad de desarrollar sus instintos felinos al maximo y podra comportarse de manera natural.  Adicionalmente,  se ofrece el servicio veterinario básico las 24 horas y estara en constante supervisión
+                    <h5><p align="justify">Caniscatus ofrece a tu felino, un ambiente tranquilo, implementando las técnicas de musicoterapia y aromaterapia, para llegar a niveles de comodidad máximos, evitando el estrés de estar fuera de casa. En el hotel encontraras una suite con lo necesario. En la zona catus de nuestra empresa, tu felino tendrá acceso a una zona libre, en la que podrá tener oportunidad de desarrollar sus instintos felinos al máximo y podrá comportarse de manera natural. Adicionalmente, se ofrece el servicio veterinario básico las 24 horas y estará en constante supervisión.
 
-              </br>
+              </br></h5>
                         </p>
                     </div>
                 </div>
 
 
              
-      </div>
-      </div>
+     
     
       
    

@@ -1,6 +1,23 @@
 @extends('layouts.app') 
  @section('content') 
 
+<style>
+  #scrollUp {
+  bottom: 20px;
+  right: 20px;
+  padding: 10px 20px;
+  background: #555;
+  color: #fff;
+}
+  </style>
+  
+ <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+ <script src="subir/jquery.scrollUp.js"></script>
+ <script>
+ $(function(){
+  $.scrollUp();
+});
+ </script>
 <!-- Masthead -->
 <div id="demo" class="carousel slide" data-ride="carousel">
 
@@ -97,5 +114,9 @@
       
 		</section>
 
-
+<section class="page-section" id="servicios">
+  <div class="container">
+ 
+  <img src="img/Frace celebre.png" width="150px" alt="">        
+              </div>
 @endsection
