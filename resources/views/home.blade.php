@@ -45,6 +45,56 @@
 
 </div>
 
+<section class="ftco-section ftco-services-2" id="services-section">
+			<div class="container">
+				<div class="row justify-content-center pb-5">
+          <div class="col-md-12 heading-section text-center ftco-animate">
+          <div class="section-title" >
+						<h1 aling="left">Algunos de nuestros clientes</h1>
+          </div>
+            </div>
+        </div>
+        <div class="row">
+        	<div class="col-md d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services text-center d-block">
+                <img src="img/cliente1.png">
+                <div class="media-body">
+                <h3 class="heading mb-3">Cliente 1</h3>
+                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+              </div>
+            </div>      
+          </div>
+          <div class="col-md d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services text-center d-block">
+            <img src="img/cliente2.png">
+              <div class="media-body">
+                <h3 class="heading mb-3">Cliente 2</h3>
+                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+              </div>
+            </div>      
+          </div>
+          <div class="col-md d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services text-center d-block">
+            <img src="img/cliente3.png">
+              <div class="media-body">
+                <h3 class="heading mb-3">Cliente 3</h3>
+                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+              </div>
+            </div>      
+          </div>
+          <div class="col-md d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services text-center d-block">
+            <img src="img/cliente4.png">
+              <div class="media-body">
+                <h3 class="heading mb-3">Cliente 4</h3>
+                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+              </div>
+            </div>      
+          </div>
+        
+        </div>
+			</div>
+		</section>
 
 
 @endsection
