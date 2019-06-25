@@ -183,7 +183,8 @@
 
 
   <!-- Call to Action Section -->
-  <div class="container">
+  
+  <div class="container" align=right>
   <a class="gotopbtn" href="#"> <img src="img/subir.png"> </a>
 </div>
 
