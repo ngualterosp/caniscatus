@@ -86,82 +86,99 @@
 </style>
 
 <!-- Portfolio Section -->
-<br>
-<center>
-  <hr class="divider my-4">
-</center>
 <div id="portfolio">
 
-
 <div class="container gallery-container">
-  <div class="row row mb-3">
-    <div class="col-md-4">
-      <a class="portfolio-box" href="img/hotel canino.png">
-        <img class="img-fluid" id="timg" src="img/hotel canino.png" alt="">
-      </a>
-    </div>
-
-    <div class="col-md-4">
-      <a class="portfolio-box" href="img/hotel canino1.png">
-        <img class="img-fluid" id="timg" src="img/hotel canino1.png" alt="">
-      </a>
-    </div>
-
-
-
-    <div class="col-md-4">
-      <a class="portfolio-box" href="img/hotel canino2.png">
-        <img class="img-fluid" id="timg" src="img/hotel canino2.png" alt="">
-      </a>
-    </div>
-
-    <div class="col-md-4">
-      <a class="portfolio-box" href="img/hotel canino3.png">
-        <img class="img-fluid" id="timg" src="img/hotel canino3.png" alt="">
-      </a>
-    </div>
-
-    <div class="col-lg-4 col-sm-6">
-      <a class="portfolio-box" href="img/hotel canino4.png">
-        <img class="img-fluid" id="timg" src="img/hotel canino4.png" alt="">
-      </a>
-    </div>
-
-    <div class="col-md-4">
-      <a class="portfolio-box" href="img/hotel canino5.png">
-        <img class="img-fluid" id="timg" src="img/hotel canino5.png" alt="">
-      </a>
-    </div>
-
-    <div class="col-md-4">
-      <a class="portfolio-box" href="img/hotel canino6.png">
-        <img class="img-fluid" id="timg" src="img/hotel canino6.png" alt="">
-      </a>
-    </div>
-
-    <div class="col-md-4">
-      <a class="portfolio-box" href="img/hotel canino 7.png">
-        <img class="img-fluid" id="timg" src="img/hotel canino 7.png" alt="">
-      </a>
-    </div>
-
-    <div class="col-md-4">
-      <a class="portfolio-box" href="img/hotel canino8.png">
-        <img class="img-fluid" id="timg" src="img//hotel canino8.png" alt="">
-      </a>
-    </div>
-
-    <div class="col-md-4">
-      <a class="portfolio-box" href="img/hotel canino9.png">
-        <img class="img-fluid" id="timg" src="img/hotel canino9.png" alt="">
-      </a>
-    </div>
-
-
-   
-
-    </div>
+    <div class="tz-gallery">
+  
+        <div class="row mb-3">
+            <div class="col-md-4">
+                <div class="card">
+                    <a class="lightbox" href="img/hotel canino.png">
+                    <img src="img/hotel canino.png" alt="Park" class="card-img-top">
+                    </a>
+                </div>
+            </div>
+             
+            <div class="col-md-4">
+                <div class="card">
+                    <a class="lightbox" href="img/hotel canino1.png">
+                    <img src="img/hotel canino1.png" alt="Park" class="card-img-top">
+                    </a>
+                </div>
+            </div>
+             
+            <div class="col-md-4">
+                <div class="card">
+                    <a class="lightbox" href="img/hotel canino2.png">
+                    <img src="img/hotel canino2.png" alt="Park" class="card-img-top">
+                    </a>
+                </div>
+            </div>
+        </div>
+          
+        <div class="row mb-3">
+            <div class="col-md-4">
+                <div class="card">
+                    <a class="lightbox" href="img/hotel canino3.png">
+                    <img src="img/hotel canino3.png" alt="Park" class="card-img-top">
+                    </a>
+                </div>
+            </div>
+             
+            <div class="col-md-4">
+                <div class="card">
+                    <a class="lightbox" href="img/hotel canino4.png">
+                    <img src="img/hotel canino4.png" alt="Park" class="card-img-top">
+                    </a>
+                </div>
+            </div>
+             
+            <div class="col-md-4">
+                <div class="card">
+                    <a class="lightbox" href="img/hotel canino5.png">
+                    <img src="img/hotel canino5.png" alt="Park" class="card-img-top">
+                    </a>
+                </div>
+            </div>
 </div>
+
+            <div class="row mb-3">
+            <div class="col-md-4">
+                <div class="card">
+                    <a class="lightbox" href="img/hotel canino6.png">
+                    <img src="img/hotel canino6.png" alt="Park" class="card-img-top">
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card">
+                    <a class="lightbox" href="img/hotel canino 7.png">
+                    <img src="img/hotel canino 7.png" alt="Park" class="card-img-top">
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card">
+                    <a class="lightbox" href="img/hotel canino8.png">
+                    <img src="img/hotel canino8.png" alt="Park" class="card-img-top">
+                    </a>
+                </div>
+            </div>
+</div>
+
+<div class="row mb-3">
+            <div class="col-md-4">
+                <div class="card">
+                    <a class="lightbox" href="img/hotel canino9.png">
+                    <img src="img/hotel canino9.png" alt="Park" class="card-img-top">
+                    </a>
+                </div>
+            </div>
+</div>
+
 </section>
 
 @endsection
