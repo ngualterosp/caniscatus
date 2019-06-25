@@ -168,13 +168,16 @@
 
 
   <!-- Call to Action Section -->
-
+  <div class="container">
+  <a class="gotopbtn" href="#"> <img src="img/subir.png"> </a>
+</div>
 
   <!-- Contact Section -->
 
 
   <!-- Footer -->
   <footer class="bg-light py-5">
+
     <div class="container">
       <div class="small text-center text-muted"><a href="https://api.whatsapp.com/send?phone=573508449157"><img
             src="img/whatsapp.png" width="35px" />
