@@ -75,7 +75,7 @@
   }
   #footer2{
 
-    background-color: rgb(218, 184, 57,0.55) !important;
+    background-color: rgb(218, 184, 57) !important;
     
 
   }
