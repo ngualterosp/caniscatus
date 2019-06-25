@@ -20,7 +20,7 @@
 
   <!-- Plugin CSS -->
 
-  <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+
   <link href="{{ asset('css/bootstrap.min.css')}}" rel="stylesheet">
 
 
@@ -63,6 +63,21 @@
   .carousel-inner img {
       width: 100%;
       height: 100%;
+  }
+
+  @font-face {
+    font-family: "Futura";
+    src: url("ttf/futuram.ttf");
+  }
+
+  a,p,h1,h2,h3,h4,h5 {
+  font-family: "Futura";
+  }
+  #footer2{
+
+    background-color: rgb(218, 184, 57,0.55) !important;
+    
+
   }
   </style>
 
@@ -111,37 +126,37 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto my-2 my-lg-0">
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="{{route('home')}}">
+            <a class="nav-link js-scroll-trigger" href="{{route('home')}}" id="hoverp">
               Inicio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="{{route('quienessomos')}}">
+            <a class="nav-link js-scroll-trigger" href="{{route('quienessomos')}}" id="hoverp">
               Quienes Somos</a>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle"  id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="{{route('servicios')}}">
+            <a  id="hoverp" class="nav-link dropdown-toggle"  id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="{{route('servicios')}}">
               Nuestros Servicios
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               
               <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="{{route('guarderiacanica')}}">Guardería Canina</a>
+              <a   class="dropdown-item" href="{{route('guarderiacanica')}}">Guardería Canina</a>
               <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="{{route('hotelcanino')}}">Hotel Canino</a>
+              <a   class="dropdown-item" href="{{route('hotelcanino')}}">Hotel Canino</a>
               <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="{{route('hotelfelino')}}">Hotel Felino</a>
+              <a   class="dropdown-item" href="{{route('hotelfelino')}}">Hotel Felino</a>
               <div class="dropdown-divider"></div>
               <a class="dropdown-item" href="{{route('grooming')}}">Grooming (SPA, Peluqueria)</a>
               <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="{{route('etologia')}}">Etología</a>
+              <a   class="dropdown-item" href="{{route('etologia')}}">Etología</a>
             </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="{{route('galeria')}}">
+            <a id="hoverp" class="nav-link js-scroll-trigger" href="{{route('galeria')}}">
               Galería</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="{{route('contactenos')}}">
+            <a  id="hoverp" class="nav-link js-scroll-trigger" href="{{route('contactenos')}}">
               Contactenos</a>
           </li>
         </ul>
@@ -176,7 +191,7 @@
 
 
   <!-- Footer -->
-  <footer class="bg-light py-5">
+  <footer class="bg-light py-5" id="footer2">
 
     <div class="container">
       <div class="small text-center text-muted"><a href="https://api.whatsapp.com/send?phone=573508449157"><img
