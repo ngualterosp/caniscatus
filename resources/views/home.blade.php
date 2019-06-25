@@ -1,21 +1,16 @@
 @extends('layouts.app') 
  @section('content') 
 
-<style>
-  #scrollUp {
-  bottom: 20px;
-  right: 20px;
-  padding: 10px 20px;
-  background: #555;
-  color: #fff;
-}
-  </style>
+
   
+  <link rel="stylesheet" href="css/estilos.css">
  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
  <script src="subir/jquery.scrollUp.js"></script>
  <script>
  $(function(){
-  $.scrollUp();
+  $.scrollUp({
+    scrollImg: true
+  });
 });
  </script>
 <!-- Masthead -->
@@ -67,7 +62,7 @@
 				<div class="row justify-content-center pb-5">
           <div class="col-md-12 heading-section text-center ftco-animate">
           <div class="section-title" >
-						<h1 aling="left">Algunos de nuestros clientes</h1>
+						<h1 aling="left">ALGUNOS DE NUESTROS AFILIADOS</h1>
           </div>
             </div>
         </div>
@@ -77,7 +72,6 @@
                 <img src="img/cliente1.png">
                 <div class="media-body">
                 <h3 class="heading mb-3">Cliente 1</h3>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
               </div>
             </div>      
           </div>
@@ -86,7 +80,6 @@
             <img src="img/cliente2.png">
               <div class="media-body">
                 <h3 class="heading mb-3">Cliente 2</h3>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
               </div>
             </div>      
           </div>
@@ -95,7 +88,6 @@
             <img src="img/cliente3.png">
               <div class="media-body">
                 <h3 class="heading mb-3">Cliente 3</h3>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
               </div>
             </div>      
           </div>
@@ -104,19 +96,75 @@
             <img src="img/cliente4.png">
               <div class="media-body">
                 <h3 class="heading mb-3">Cliente 4</h3>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
               </div>
             </div>      
           </div>
         
         </div>
-			</div>
+        <img src="img/Frase celebre (2).png" width="100%" alt=""> 
+        <div class="container"> </br></br>
+        <img src="img/Sabias que.png" width="450px"> 
+        <img src="img/Dato curioso.png" width="50%" alt=""> 
+      </div>
+      
+
+      <div class="container"> </br></br>
+      <style>
+  #timg {
+    height: 250px;
+    width: 450px;
+  }
+</style>
+ <div class="section-title" >
+						<center><h1>NUESTRAS INSTALACIONES</h1></center>
+          </div>
+<!-- Portfolio Section -->
+<br>
+<center>
+  <hr class="divider my-4">
+</center>
+<div id="portfolio">
+
+
+<div class="container-fluid p-0">
+  <div class="row row mb-3">
+    <div class="col-md-4">
+      <a class="portfolio-box" href="img/galeria7.png">
+        <img class="img-fluid" id="timg" src="img/galeria7.png" alt="">
+      </a>
+    </div>
+
+    <div class="col-md-4">
+      <a class="portfolio-box" href="img/galeria3.png">
+        <img class="img-fluid" id="timg" src="img/galeria3.png" alt="">
+      </a>
+    </div>
+
+
+
+    <div class="col-md-4">
+      <a class="portfolio-box" href="img/galeria1.png">
+        <img class="img-fluid" id="timg" src="img/galeria1.png" alt="">
+      </a>
+    </div>
+
+    </div>
+  </div>
+</div>
+
+
+<div class="container"> </br></br>
+        <img src="img/Contacto-Home.png" width="100%"> 
+        
+      </div>
+
+      </div>
+           
       
 		</section>
 
-<section class="page-section" id="servicios">
-  <div class="container">
+
  
-  <img src="img/Frace celebre.png" width="150px" alt="">        
-              </div>
+    
+              
 @endsection

@@ -116,6 +116,8 @@ Se programará horario de práctica libre.</br></br></br></br></br></br>
                 </div>
 
                 </center>
+
+                
 <style>
   #timg {
     height: 250px;
@@ -132,14 +134,14 @@ Se programará horario de práctica libre.</br></br></br></br></br></br>
 
 
 <div class="container-fluid p-0">
-  <div class="row no-gutters">
-    <div class="col-lg-4 col-sm-6">
+  <div class="row row mb-3">
+    <div class="col-md-4">
       <a class="portfolio-box" href="img/guarderia.png">
         <img class="img-fluid" id="timg" src="img/guarderia.png" alt="">
       </a>
     </div>
 
-    <div class="col-lg-4 col-sm-6">
+    <div class="col-md-4">
       <a class="portfolio-box" href="img/guarderia1.png">
         <img class="img-fluid" id="timg" src="img/guarderia1.png" alt="">
       </a>
@@ -147,7 +149,7 @@ Se programará horario de práctica libre.</br></br></br></br></br></br>
 
 
 
-    <div class="col-lg-4 col-sm-6">
+    <div class="col-md-4">
       <a class="portfolio-box" href="img/guarderia2.png">
         <img class="img-fluid" id="timg" src="img/guarderia2.png" alt="">
       </a>
@@ -181,14 +183,14 @@ Adicionalmente, contamos con un área dispuesta para realizar ejercicios de entr
 
 
 <div class="container-fluid p-0">
-  <div class="row no-gutters">
-    <div class="col-lg-4 col-sm-6">
+  <div class="row row mb-3">
+    <div class="col-md-4">
       <a class="portfolio-box" href="img/adiestramiento 1.1.png">
         <img class="img-fluid" id="timg" src="img/adiestramiento 1.1.png" alt="">
       </a>
     </div>
 
-    <div class="col-lg-4 col-sm-6">
+    <div class="col-md-4">
       <a class="portfolio-box" href="img/adiestramiento 2.1.png">
         <img class="img-fluid" id="timg" src="img/adiestramiento 2.1.png" alt="">
       </a>
@@ -216,8 +218,8 @@ Este servicio se presta en el horario de las 5:00 a 7:00 a.m. y de 4:00 a 7:00 p
 
 
 <div class="container-fluid p-0">
-  <div class="row no-gutters">
-    <div class="col-lg-4 col-sm-6">
+  <div class="row row mb-3">
+    <div class="col-md-4">
       <a class="portfolio-box" href="img/transporte.png">
         <img class="img-fluid" id="timg" src="img/transporte1.1.png" alt="">
       </a>

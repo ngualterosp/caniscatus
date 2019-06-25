@@ -98,14 +98,14 @@
 
 
 <div class="container-fluid p-0">
-  <div class="row no-gutters">
-    <div class="col-lg-4 col-sm-6">
+  <div class="row row mb-3">
+    <div class="col-md-4">
       <a class="portfolio-box" href="img/g2.png">
         <img class="img-fluid" id="timg" src="img/g2.png" alt="">
       </a>
     </div>
 
-    <div class="col-lg-4 col-sm-6">
+    <div class="col-md-4">
       <a class="portfolio-box" href="img/grooming y spa 2.png">
         <img class="img-fluid" id="timg" src="img/grooming y spa 2.png" alt="">
       </a>
@@ -113,7 +113,7 @@
 
 
 
-    <div class="col-lg-4 col-sm-6">
+    <div class="col-md-4">
       <a class="portfolio-box" href="img/grooming y spa 3.png">
         <img class="img-fluid" id="timg" src="img/grooming y spa 3.png" alt="">
       </a>

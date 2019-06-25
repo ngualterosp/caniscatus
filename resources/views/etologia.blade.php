@@ -99,14 +99,14 @@
 
 
 <div class="container-fluid p-0">
-  <div class="row no-gutters">
-    <div class="col-lg-4 col-sm-6">
+  <div class="row row mb-3">
+    <div class="col-md-4">
       <a class="portfolio-box" href="img/caniscatus (30).png">
         <img class="img-fluid" id="timg" src="img/caniscatus (30).png" alt="">
       </a>
     </div>
 
-    <div class="col-lg-4 col-sm-6">
+    <div class="col-md-4">
       <a class="portfolio-box" href="img/eto2.png">
         <img class="img-fluid" id="timg" src="img/eto2.png" alt="">
       </a>
@@ -114,7 +114,7 @@
 
 
 
-    <div class="col-lg-4 col-sm-6">
+    <div class="col-md-4">
       <a class="portfolio-box" href="img/caniscatus (29).png">
         <img class="img-fluid" id="timg" src="img/caniscatus (29).png" alt="">
       </a>

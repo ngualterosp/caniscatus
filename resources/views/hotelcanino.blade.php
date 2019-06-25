@@ -93,15 +93,15 @@
 <div id="portfolio">
 
 
-<div class="container-fluid p-0">
-  <div class="row no-gutters">
-    <div class="col-lg-4 col-sm-6">
+<div class="container gallery-container">
+  <div class="row row mb-3">
+    <div class="col-md-4">
       <a class="portfolio-box" href="img/hotel canino.png">
         <img class="img-fluid" id="timg" src="img/hotel canino.png" alt="">
       </a>
     </div>
 
-    <div class="col-lg-4 col-sm-6">
+    <div class="col-md-4">
       <a class="portfolio-box" href="img/hotel canino1.png">
         <img class="img-fluid" id="timg" src="img/hotel canino1.png" alt="">
       </a>
@@ -109,13 +109,13 @@
 
 
 
-    <div class="col-lg-4 col-sm-6">
+    <div class="col-md-4">
       <a class="portfolio-box" href="img/hotel canino2.png">
         <img class="img-fluid" id="timg" src="img/hotel canino2.png" alt="">
       </a>
     </div>
 
-    <div class="col-lg-4 col-sm-6">
+    <div class="col-md-4">
       <a class="portfolio-box" href="img/hotel canino3.png">
         <img class="img-fluid" id="timg" src="img/hotel canino3.png" alt="">
       </a>
@@ -127,31 +127,31 @@
       </a>
     </div>
 
-    <div class="col-lg-4 col-sm-6">
+    <div class="col-md-4">
       <a class="portfolio-box" href="img/hotel canino5.png">
         <img class="img-fluid" id="timg" src="img/hotel canino5.png" alt="">
       </a>
     </div>
 
-    <div class="col-lg-4 col-sm-6">
+    <div class="col-md-4">
       <a class="portfolio-box" href="img/hotel canino6.png">
         <img class="img-fluid" id="timg" src="img/hotel canino6.png" alt="">
       </a>
     </div>
 
-    <div class="col-lg-4 col-sm-6">
+    <div class="col-md-4">
       <a class="portfolio-box" href="img/hotel canino 7.png">
         <img class="img-fluid" id="timg" src="img/hotel canino 7.png" alt="">
       </a>
     </div>
 
-    <div class="col-lg-4 col-sm-6">
+    <div class="col-md-4">
       <a class="portfolio-box" href="img/hotel canino8.png">
         <img class="img-fluid" id="timg" src="img//hotel canino8.png" alt="">
       </a>
     </div>
 
-    <div class="col-lg-4 col-sm-6">
+    <div class="col-md-4">
       <a class="portfolio-box" href="img/hotel canino9.png">
         <img class="img-fluid" id="timg" src="img/hotel canino9.png" alt="">
       </a>
