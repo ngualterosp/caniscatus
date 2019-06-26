@@ -102,10 +102,31 @@
         
         </div>
         <img src="img/Frase celebre (2).png" width="100%" alt=""> 
-        <div class="container"> </br></br>
-        <img src="img/Sabias que.png" width="450px"> 
-        <img src="img/Dato curioso.png" width="50%" alt=""> 
-      </div>
+
+
+        <section class="ftco-section ftco-services-2" id="services-section">
+			<div class="container">
+				<div class="row justify-content-center pb-5">
+          <div class="col-md-12 heading-section text-center ftco-animate">
+            </div>
+        </div>
+        <div class="row">
+        
+          <div class="col-2-md d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services text-center d-block">
+            <img src="img/Sabias que.png" width="450px">
+            </div>      
+          </div>
+          <div class="col-md d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services text-center d-block">
+            <img src="img/Dato curioso.png" width="450px" >
+            </div>      
+          </div>
+          
+        
+        </div>
+        
+       
       
 
       <div class="container"> </br></br>
