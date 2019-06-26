@@ -34,6 +34,7 @@
 
   <!-- Bootstrap -->
   <link type="text/css" rel="stylesheet" href="css/bootstrapp.min.css" />
+  <link type="text/css" rel="stylesheet" href="css/bootstrapn.min.css" />
 
   <!-- Owl Carousel -->
   {{-- <link type="text/css" rel="stylesheet" href="css/owl.carousell.css" /> --}}
@@ -47,6 +48,7 @@
 
   <!-- Custom stlylesheet -->
   <link type="text/css" rel="stylesheet" href="css/stylee.css" />
+  <link type="text/css" rel="stylesheet" href="css/stylen.css" />
 
 
   <!--Servicios-->

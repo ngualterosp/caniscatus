@@ -80,44 +80,138 @@
                 </div>
    
       
-               
-				
-                <center>
-                <div class="row" >
-                <div class="col" max-width: 50%;>
-                
-                    <div class="box">
-                    <h4>Hidroterapia</h4></br></br>
-                        <div class="box-icon">
-                            <img src="img/2op.png" width="150px" alt="">
-                            
-                        </div>
-                        <h5><p align="justify">La hidroterapia para los animales de compañía se está utilizando como tratamiento para animales con dolencias osteoarticulares, problemas de obesidad, enfermedades musculares, entre otras, por tanto, este servicio se prestará próximamente para los animales de compañía, que lo requieran según prescripción medico veterinaria.  Se programará con cita previa.
-              </br>
-</h5></p>
-                    </div>
-                </div>
+                <div class="container section" id="section-team">
 
-               
-                <div class="col" max-width: 50%;>
+                <div class="row justify-content-center text-center mb-5">
+        <div class="col-md-7 mb-5">
+          <h2 class="heading" data-aos="fade-up">Servicios de la guardería</h2>
+        </div>
+      </div>
+
+
+
+      <div class="row">
+        <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="100">
+          <div class="block-2">
+            <div class="flipper">
+              <div class="front" style="background-image: url(img/2op.png);">
+                <div class="box">
+                  
+                </div>
+              </div>
+              <div class="back">
+                <!-- back content -->
+                <blockquote>
+                 <p align="justify">La hidroterapia para los animales de compañía se está utilizando como tratamiento para animales con dolencias osteoarticulares, problemas de obesidad, enfermedades musculares, entre otras, por tanto, este servicio se prestará próximamente para los animales de compañía, que lo requieran según prescripción medico veterinaria.  Se programará con cita previa.
+              </br>
+</p>
+                </blockquote>
+                <div class="author d-flex">
+                  <div class="image mr-3 align-self-center">
+                    <img src="img/2op.png" alt="">
+                  </div>
+                  <div class="name align-self-center">Hidroterapia <span class="position"></span></div>
+                </div>
+              </div>
+            </div>
+          </div> <!-- .flip-container -->
+        </div>
+
+        <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="200">
+          <div class="block-2"> <!-- .hover -->
+            <div class="flipper">
+              <div class="front" style="background-image: url(img/4op.png);">
+                <div class="box">
                 
-                    <div class="box">
-                    <h4>Piscina</h4></br></br>
-                        <div class="box-icon">
-                            <img src="img/4op.png" width="150px" alt="">
-                        </div>
-                        <h5> <p align="justify">Próximamente tendremos este servicio.</br></br>
+                </div>
+              </div>
+              <div class="back">
+                <!-- back content -->
+                <blockquote>
+                  <p align="justify">Próximamente tendremos este servicio.</br></br>
 Estará incluido en los costos del servicio de Guardería y Hotel Canino.</br></br>
-Se programará horario de práctica libre.</br></br></br></br></br></br>
-
-              </br>
-</h5> </p>
-                    </div>
+Se programará horario de práctica libre.</p>
+                </blockquote>
+                <div class="author d-flex">
+                  <div class="image mr-3 align-self-center">
+                    <img src="img/4op.png" alt="">
+                  </div>
+                  <div class="name align-self-center">Piscina <span class="position"></span></div>
                 </div>
+              </div>
+            </div>
+          </div> <!-- .flip-container -->
+        </div>
 
-                </center>
+        <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="300">
+          <div class="block-2">
+            <div class="flipper">
+              <div class="front" style="background-image: url(img/1op.png);">
+                <div class="box">
+                </div>
+              </div>
+              <div class="back">
+                <!-- back content -->
+                <blockquote>
+               <h6> <p align="justify">Caniscatus S.A.S., te brinda el servicio de adiestramiento básico enmarcado en los siguientes comandos:</br></br>
+<img src="img/dog-paw.png" width="15px">Sentarse</br></br>
+<img src="img/dog-paw.png" width="15px">Acostarse</br></br>
+<img src="img/dog-paw.png" width="15px">Dar la mano derecha</br></br>
+<img src="img/dog-paw.png" width="15px">Dar la mano izquierda</br></br>
+<img src="img/dog-paw.png" width="15px">Atender al llamado</br></br>
+<img src="img/dog-paw.png" width="15px">Permanencia sentado</br></br>
+<img src="img/dog-paw.png" width="15px">Permanencia acostado</br></br>
+</h5></p>
+                </blockquote>
+                <div class="author d-flex">
+                  <div class="image mr-3 align-self-center">
+                    <img src="img/1op.png" alt="">
+                  </div>
+                  <div class="name align-self-center">Adiestramiento <span class="position"></span></div>
+                </div>
+              </div>
+            </div>
+          </div> <!-- .flip-container -->
+        </div>
 
-                
+
+        <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="300">
+          <div class="block-2">
+            <div class="flipper">
+              <div class="front" style="background-image: url(img/9op.png);">
+                <div class="box">
+                </div>
+              </div>
+              <div class="back">
+                <!-- back content -->
+                <blockquote>
+                <p align="justify"><p align="justify">Ofrecemos el servicio de transporte puerta a puerta, en un cómodo vehículo que cuenta con cubículos individuales y tamaño acorde a la raza.  Posee ventilación controlada para el transporte de los animales de compañía.</br></br>
+Este servicio se presta en el horario de las 5:00 a 7:00 a.m. y de 4:00 a 7:00 p.m.</br></br>
+</p>
+                </blockquote>
+                <div class="author d-flex">
+                  <div class="image mr-3 align-self-center">
+                    <img src="img/9op.png" alt="">
+                  </div>
+                  <div class="name align-self-center">Servicio de transporte <span class="position"></span></div>
+                </div>
+              </div>
+            </div>
+          </div> <!-- .flip-container -->
+        </div>
+
+
+
+       
+      </div>
+    </div>
+
+
+				
+        
+
+               
+            
 <style>
   #timg {
     height: 250px;
@@ -163,18 +257,7 @@ Se programará horario de práctica libre.</br></br></br></br></br></br>
   <!-- Portfolio Section -->
   <br>
 <h2 class="text-center text-uppercase text-secondary mb-0">Adiestramiento Básico </br></br></h2>
-<h5> Caniscatus S.A.S., te brinda el servicio de adiestramiento básico enmarcado en los siguientes comandos:</br></br>
-<img src="img/dog-paw.png" width="15px">Sentarse</br></br>
-<img src="img/dog-paw.png" width="15px">Acostarse</br></br>
-<img src="img/dog-paw.png" width="15px">Dar la mano derecha</br></br>
-<img src="img/dog-paw.png" width="15px">Dar la mano izquierda</br></br>
-<img src="img/dog-paw.png" width="15px">Atender al llamado</br></br>
-<img src="img/dog-paw.png" width="15px">Permanencia sentado</br></br>
-<img src="img/dog-paw.png" width="15px">Permanencia acostado</br></br>
-<p align="justify">Todos los comandos serán presentados al animal a través de refuerzo en positivo.</br></br>
-Los comandos son desarrollados de manera grupal y/o individual, dependiendo a qué fin queremos llegar con el animal de compañía.</br></br>
-Adicionalmente, contamos con un área dispuesta para realizar ejercicios de entrenamiento de Agility, en las que también se trabajaran comandos de obediencia básicos.</p>
-</h5>
+
 
 <center>
   <hr class="divider my-4">
@@ -207,9 +290,7 @@ Adicionalmente, contamos con un área dispuesta para realizar ejercicios de entr
    <!-- Portfolio Section -->
    <br>
 <h2 class="text-center text-uppercase text-secondary mb-0">Servicio de transporte </h2>
-<h5><p align="justify">Ofrecemos el servicio de transporte puerta a puerta, en un cómodo vehículo que cuenta con cubículos individuales y tamaño acorde a la raza.  Posee ventilación controlada para el transporte de los animales de compañía.</br></br>
-Este servicio se presta en el horario de las 5:00 a 7:00 a.m. y de 4:00 a 7:00 p.m.</br></br>
-</p></h5>
+
 
 <center>
   <hr class="divider my-4">
