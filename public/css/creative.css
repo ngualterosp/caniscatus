@@ -13,6 +13,10 @@
  #estilo1{color:#000000;background:#dab839;}
  #estilo2{color:#fff;background:#296600;}
 
+ p {
+  border: red 2px solid;
+  margin: 20px;
+}
 
  *{
    margin: 0;
