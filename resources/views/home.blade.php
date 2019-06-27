@@ -141,7 +141,7 @@
 
 <!-- Portfolio Section -->
 
-<div  class="colorclaro">
+<div id="portfolio" class="colorclaro">
 
   <div class="container">
     <div class="section-title">
