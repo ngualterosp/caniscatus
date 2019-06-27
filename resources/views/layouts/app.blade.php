@@ -34,6 +34,7 @@
 
   <!-- Bootstrap -->
   <link type="text/css" rel="stylesheet" href="css/bootstrapp.min.css" />
+  <link type="text/css" rel="stylesheet" href="css/bootstrapn.min.css" />
 
   <!-- Owl Carousel -->
   {{-- <link type="text/css" rel="stylesheet" href="css/owl.carousell.css" /> --}}
@@ -47,6 +48,7 @@
 
   <!-- Custom stlylesheet -->
   <link type="text/css" rel="stylesheet" href="css/stylee.css" />
+  <link type="text/css" rel="stylesheet" href="css/stylen.css" />
 
 
   <!--Servicios-->
@@ -73,11 +75,13 @@
   a,p,h1,h2,h3,h4,h5 {
   font-family: "Futura";
   }
+
+
   #footer2{
 
-    background-color: rgb(218, 184, 57,0.55) !important;
-    
-
+    background-color: rgb(218, 184, 57) !important;
+  }
+  #color55{
   }
   </style>
 
@@ -107,12 +111,13 @@
 
   </div>
 
-    <div class="container text-center" width="100px">
+<div class="container" id="estilo4">
+    <div class="container text-center">
     <a href="{{route('home')}}"><img src="img/logo_3.png"
           style="width: 130px; height: auto;" align="left"></a><h1>CANISCATUS</h1>
       <h4 class="navbar-brand js-scroll-trigger" >Somos una empresa que brinda calidad y calidez a tu mascota</h4>
     </div>
-
+</div>
   
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-light  py-3" id="mainNav">
@@ -183,7 +188,8 @@
 
 
   <!-- Call to Action Section -->
-  <div class="container">
+  
+  <div class="container" align=right>
   <a class="gotopbtn" href="#"> <img src="img/subir.png"> </a>
 </div>
 
@@ -199,7 +205,7 @@
         </a><a href="https://www.facebook.com/caniscatus/"><img src="img/facebook.png" width="35px" /></a>
         <a href="https://www.instagram.com/caniscatus_bogota/?hl=es-la"><img src="img/instagram.png" width="35px" /></a><br>
         <h5> Caniscatus S.A.S.</h5><br>
-        <h6> Somos una empresa que brinda calidad y calidez a tu mascota</h6>
+        
       </div>
     </div>
   </footer>

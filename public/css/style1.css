@@ -23,3 +23,7 @@ section{
     line-height: 50px;
     font-size: 22px;
 }
+
+p {
+    margin: 20px;
+  }
