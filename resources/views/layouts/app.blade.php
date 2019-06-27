@@ -81,7 +81,8 @@
 
     background-color: rgb(218, 184, 57) !important;
   }
-  #color55{
+  .colorclaro{
+    background-color: rgb(218, 184, 57,0.55) !important;
   }
   </style>
 
