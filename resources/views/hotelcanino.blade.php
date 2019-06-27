@@ -57,6 +57,7 @@
                         <div class="box-icon">
                             <img src="img/3op.png" width="150px" alt="">
                             </div>
+                             <h5> <p align="justify">Caniscatus ofrece a tu perro (a) cómodas habitaciones, dotadas con los elementos necesarios para brindar la mejor comodidad y bienestar durante su estadía nocturna. Adicionalmente, durante el día estará en espacios libres en compañía de otras mascotas, para ejercitarse y realizar procesos de socialización, contando con el servicio veterinario básico las 24 horas, al cuidado de personal capacitado para dicha labor.
                     </div>
                 </div>
                 </center>
@@ -64,17 +65,11 @@
                 </div>
                 <div class="col">
                 <center>
-                    <div class="box">
-                    </br></br>
-                    <h5> <p align="justify">Caniscatus ofrece a tu perro (a) cómodas habitaciones, dotadas con los elementos necesarios para brindar la mejor comodidad y bienestar durante su estadía nocturna. Adicionalmente, durante el día estará en espacios libres en compañía de otras mascotas, para ejercitarse y realizar procesos de socialización, contando con el servicio veterinario básico las 24 horas, al cuidado de personal capacitado para dicha labor.
-              </br>
-              </br></h5>
-                        </p>
-                    </div>
+                    
                 </div>
 
 
-             
+             </div>
    
 				
 
@@ -86,6 +81,10 @@
 </style>
 
 <!-- Portfolio Section -->
+<br>
+<center>
+  <hr class="divider my-4">
+</center>
 <div id="portfolio">
 
 <div class="container gallery-container">

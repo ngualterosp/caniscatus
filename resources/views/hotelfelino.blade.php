@@ -57,23 +57,20 @@
                     <h4>Hotel Felino</h4></br></br>
                         <div class="box-icon">
                             <img src="img/3op.png" width="150px" alt="">
+
+                            </br></br>
+
                             </div>
+
+                            <h5><p align="justify">Caniscatus ofrece a tu felino, un ambiente tranquilo, implementando las técnicas de musicoterapia y aromaterapia, para llegar a niveles de comodidad máximos, evitando el estrés de estar fuera de casa. En el hotel encontraras una suite con lo necesario. En la zona catus de nuestra empresa, tu felino tendrá acceso a una zona libre, en la que podrá tener oportunidad de desarrollar sus instintos felinos al máximo y podrá comportarse de manera natural. Adicionalmente, se ofrece el servicio veterinario básico las 24 horas y estará en constante supervisión.
+
                     </div>
                 </div>
                 </center>
 
                 </div>
 
-                <div class="col">
-                <center>
-                    <div class="box">
-                    </br>
-                    <h5><p align="justify">Caniscatus ofrece a tu felino, un ambiente tranquilo, implementando las técnicas de musicoterapia y aromaterapia, para llegar a niveles de comodidad máximos, evitando el estrés de estar fuera de casa. En el hotel encontraras una suite con lo necesario. En la zona catus de nuestra empresa, tu felino tendrá acceso a una zona libre, en la que podrá tener oportunidad de desarrollar sus instintos felinos al máximo y podrá comportarse de manera natural. Adicionalmente, se ofrece el servicio veterinario básico las 24 horas y estará en constante supervisión.
-
-              </br></h5>
-                        </p>
-                    </div>
-                </div>
+               
 
 
              

@@ -75,11 +75,13 @@
   a,p,h1,h2,h3,h4,h5 {
   font-family: "Futura";
   }
+
+
   #footer2{
 
     background-color: rgb(218, 184, 57) !important;
-    
-
+  }
+  #color55{
   }
   </style>
 
@@ -109,12 +111,13 @@
 
   </div>
 
-    <div class="container text-center" width="100px">
+<div class="container" id="estilo4">
+    <div class="container text-center">
     <a href="{{route('home')}}"><img src="img/logo_3.png"
           style="width: 130px; height: auto;" align="left"></a><h1>CANISCATUS</h1>
       <h4 class="navbar-brand js-scroll-trigger" >Somos una empresa que brinda calidad y calidez a tu mascota</h4>
     </div>
-
+</div>
   
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-light  py-3" id="mainNav">
@@ -202,7 +205,7 @@
         </a><a href="https://www.facebook.com/caniscatus/"><img src="img/facebook.png" width="35px" /></a>
         <a href="https://www.instagram.com/caniscatus_bogota/?hl=es-la"><img src="img/instagram.png" width="35px" /></a><br>
         <h5> Caniscatus S.A.S.</h5><br>
-        <h6> Somos una empresa que brinda calidad y calidez a tu mascota</h6>
+        
       </div>
     </div>
   </footer>

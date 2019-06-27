@@ -59,8 +59,10 @@
                     <div class="box">
                     <h4>Guardería Canina</h4></br></br>
                         <div class="box-icon">
-                            <img src="img/8op.png" width="150px" alt="">
+                            <img src="img/8op.png" width="150px" alt=""> </br> </br>
                         </div>
+                      <h5><p align="justify">Caniscatus en el servicio de guardería ofrece una cálida acogida para tu mascota, con espacios etológicamente adecuados para el desarrollo de actividades de socialización y físicas, en compañía de sus congéneres y bajo supervisión. En este servicio se incluye, algunos ejercicios de obediencia de nivel básico, teniendo en cuenta la paciencia, la constancia y el uso de refuerzos positivos. Lo anterior, con el fin de potenciar un mejor manejo de tu mascota. Incluye servicio de transporte puerta a puerta.
+
                     </div>
                 </div>
 
@@ -69,15 +71,7 @@
 
             
       </div>
-      <div class="col" width="50px" >
-      <center>
-                    <div class="box"> 
-                    </br></br>
-                    <h5><p align="justify">Caniscatus en el servicio de guardería ofrece una cálida acogida para tu mascota, con espacios etológicamente adecuados para el desarrollo de actividades de socialización y físicas, en compañía de sus congéneres y bajo supervisión. En este servicio se incluye, algunos ejercicios de obediencia de nivel básico, teniendo en cuenta la paciencia, la constancia y el uso de refuerzos positivos. Lo anterior, con el fin de potenciar un mejor manejo de tu mascota. Incluye servicio de transporte puerta a puerta.
-              </br> </p></h5>
-                       
-                    </div>
-                </div>
+     
    
       
                 <div class="container section" id="section-team">
@@ -116,6 +110,8 @@
             </div>
           </div> <!-- .flip-container -->
         </div>
+
+
 
         <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="200">
           <div class="block-2"> <!-- .hover -->
@@ -178,7 +174,7 @@ Se programará horario de práctica libre.</p>
         <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="300">
           <div class="block-2">
             <div class="flipper">
-              <div class="front" style="background-image: url(img/9op.png);">
+              <div class="front" style="background-image: url(img/9op.png); widyth">
                 <div class="box">
                 </div>
               </div>
@@ -209,7 +205,48 @@ Este servicio se presta en el horario de las 5:00 a 7:00 a.m. y de 4:00 a 7:00 p
 
 				
         
+<!-- The slideshow -->
+<div class="container">
+<div class="row">
+  <div class="col" aling="center">
+    <!-- Indicators -->
+    <center>
+<ul class="carousel-indicators">
+  <li data-target="#demo" data-slide-to="0" class="active"></li>
+  <li data-target="#demo" data-slide-to="1"></li>
+  <li data-target="#demo" data-slide-to="2"></li>
+</ul>
+      <div class="carousel-inner">
+          <div class="carousel-item active" >
+            <img src="img/banner1.png" alt="1" class="d-block w-100" >
+          </div>
+          <div class="carousel-item">
+            <img src="img/banner2.png" alt="2"  class="d-block w-100" >
+          </div>
+          <div class="carousel-item">
+            <img src="img/banner3.png" alt="3"  class="d-block w-100">
+          </div>
+        </div>
 
+
+      <!-- Left and right controls -->
+      <a class="carousel-control-prev" href="#demo" data-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+      </a>
+      <a class="carousel-control-next" href="#demo" data-slide="next">
+        <span class="carousel-control-next-icon"></span>
+      </a>
+    </center>
+  </div>
+</div>
+
+</div>
+
+</div>
+
+
+
+</section>
                
             
 <style>
