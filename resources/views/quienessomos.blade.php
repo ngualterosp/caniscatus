@@ -96,7 +96,16 @@ experiencia agradable a su mascota; haciéndolo sentir como en casa.
           <h4 align="justify" id="estilo2">
             Será la mejor empresa proveedora de servicios de manejo y cuidado de los animales de compañía, cumpliendo con los Estándares de Calidad y Bienestar Animal a nivel
             Distrital y Nacional. Siendo líderes en el gremio de las Guarderías Caninas y Hoteles Caninos y Felinos.
+<<<<<<< HEAD
           </h4>
+=======
+</h4>
+						</br></br>
+					</div>
+          </div>
+
+          
+>>>>>>> master
         </div>
       </div>
 

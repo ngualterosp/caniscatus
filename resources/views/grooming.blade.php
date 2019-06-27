@@ -57,24 +57,16 @@
                     <div class="box">
                     <h4>Grooming (SPA, Peluquería)</h4></br></br>
                         <div class="box-icon">
-                            <img src="img/7op.png" width="150px" alt="">
+                            <img src="img/7op.png" width="150px" alt=""></br></br>
                         </div>
+      <h5><p align="justify">Además de que tu mascota se ejercite, Caniscatus ofrece un tratamiento para que tu perro o gato esté lo más tranquilo y limpio posible, recibiendo en el SPA un masaje y baño relajante y reconfortante. Así mismo ofrecemos sesiones de baño y técnicas peluquería, corte de uñas, lavado de dientes entre otras actividades que harán que tu mascota llegue a casa con su pelo brillante y una actitud relajada.
+
                     </div>
                 </div>
                 </center>
 
                 </div>
-      <div class="col" width="50px" >
-      <center>
-                    <div class="box">
-                    </br></br>
-                    <h5><p align="justify">Además de que tu mascota se ejercite, Caniscatus ofrece un tratamiento para que tu perro o gato esté lo más tranquilo y limpio posible, recibiendo en el SPA un masaje y baño relajante y reconfortante. Así mismo ofrecemos sesiones de baño y técnicas peluquería, corte de uñas, lavado de dientes entre otras actividades que harán que tu mascota llegue a casa con su pelo brillante y una actitud relajada.
-              </br></br></h5>
-                        </p>
-                    </div>
-                </div>
-
-
+      
              
     
       

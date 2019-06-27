@@ -12,11 +12,16 @@
 
  #estilo1{color:#000000;background:#dab839;}
  #estilo2{color:#fff;background:#296600;}
+<<<<<<< HEAD
 
  p {
   border: red 2px solid;
   margin: 20px;
 }
+=======
+ #estilo3{color:#000000;background: rgba(218,184,57,0.55);}
+ #estilo4{color:#000000;background: #ffffff}
+>>>>>>> master
 
  *{
    margin: 0;

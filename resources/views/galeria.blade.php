@@ -55,7 +55,6 @@
 				<div>
 
         <div class="section-title" >
-						<h1>Galería CANISCATUS S.A.S.</h1>
           </div>
           <hr class="divider my-4">
 					<div class="mb-50 wow fadeIn" data-wow-duration=".8s">

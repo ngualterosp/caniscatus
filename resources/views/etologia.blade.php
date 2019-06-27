@@ -57,31 +57,15 @@
                     <div class="box">
                     <h4>Etología</h4></br></br>
                     <div class="box-icon">
-                            <img src="img/5op.png" width="150px" alt="">
+                            <img src="img/5op.png" width="150px" alt=""> </br> </br>
                         </div>
-                    </div>
-                </div>
-
-                 </center>
-
-
-                </div>
-      <div class="col" width="50px" >
-      <center>
-                    <div class="box"> 
-                    </br></br></br>
-                    <h5><p align="justify">
+                         <h5><p align="justify">
                     Si crees que tu mascota no se comporta de la mejor manera y observas que tiene conductas extrañas; Caniscatus ofrece un profesional especialista, quien evaluara a tu mascota a través de un examen comportamental, emitiendo un diagnóstico y posteriormente tratamiento requerido según la conducta presentada.
-</h5></br></br>
-                        </p>
                     </div>
                 </div>
-                </center>
+                </div>
 
-             
-  
-   
-				
+                
 
 <style>
   #timg {
