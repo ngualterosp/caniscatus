@@ -1,13 +1,8 @@
 @extends('layouts.app')
 @section('content')
 
-
-
-
  <!-- Masthead -->
  <div id="demo" class="carousel slide" data-ride="carousel">
-
-  
 <!-- The slideshow -->
 <div class="container">
 <div class="row">
@@ -35,6 +30,7 @@
     </center>
   </div>
 </div>
+</div>
 
 </div>
 
@@ -51,7 +47,7 @@
 
    <!-- Services Section -->
 <section class="page-section" id="servicios">
-  <div class="container">
+  <div class="container" align="center">
   
             <div class="row" >
                 <div class="col" max-width: 50%;>
@@ -74,7 +70,7 @@
      
    
       
-                <div class="container section" id="section-team">
+                <div class="container section" id="section-team" aling="center">
 
                 <div class="row justify-content-center text-center mb-5">
         <div class="col-md-7 mb-5">
@@ -85,6 +81,7 @@
 
 
       <div class="row">
+
         <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="100">
           <div class="block-2">
             <div class="flipper">
@@ -111,7 +108,7 @@
           </div> <!-- .flip-container -->
         </div>
 
-
+   
 
         <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="200">
           <div class="block-2"> <!-- .hover -->
@@ -138,6 +135,11 @@ Se programará horario de práctica libre.</p>
             </div>
           </div> <!-- .flip-container -->
         </div>
+
+        </div>
+
+
+        <div class="row">
 
         <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="300">
           <div class="block-2">
@@ -196,159 +198,93 @@ Este servicio se presta en el horario de las 5:00 a 7:00 a.m. y de 4:00 a 7:00 p
           </div> <!-- .flip-container -->
         </div>
 
+        </div>
+
 
 
        
       </div>
     </div>
-
-
-				
-        
-<!-- The slideshow -->
-<div class="container">
-<div class="row">
-  <div class="col" aling="center">
-    <!-- Indicators -->
-    <center>
-<ul class="carousel-indicators">
-  <li data-target="#demo" data-slide-to="0" class="active"></li>
-  <li data-target="#demo" data-slide-to="1"></li>
-  <li data-target="#demo" data-slide-to="2"></li>
-</ul>
-      <div class="carousel-inner">
-          <div class="carousel-item active" >
-            <img src="img/banner1.png" alt="1" class="d-block w-100" >
-          </div>
-          <div class="carousel-item">
-            <img src="img/banner2.png" alt="2"  class="d-block w-100" >
-          </div>
-          <div class="carousel-item">
-            <img src="img/banner3.png" alt="3"  class="d-block w-100">
-          </div>
-        </div>
-
-
-      <!-- Left and right controls -->
-      <a class="carousel-control-prev" href="#demo" data-slide="prev">
-        <span class="carousel-control-prev-icon"></span>
-      </a>
-      <a class="carousel-control-next" href="#demo" data-slide="next">
-        <span class="carousel-control-next-icon"></span>
-      </a>
-    </center>
-  </div>
-</div>
-
-</div>
-
-</div>
-
-
-
 </section>
-               
-            
-<style>
-  #timg {
-    height: 250px;
-    width: 450px;
-  }
-</style>
-
-<!-- Portfolio Section -->
-<br>
-<center>
-  <hr class="divider my-4">
-</center>
-<div id="portfolio">
 
 
-<div class="container-fluid p-0">
-  <div class="row row mb-3">
-    <div class="col-md-4">
-      <a class="portfolio-box" href="img/guarderia.png">
-        <img class="img-fluid" id="timg" src="img/guarderia.png" alt="">
-      </a>
+<!--Carousel Wrapper-->
+<div id="carousel-example-2" class="carousel slide carousel-fade z-depth-1-half" data-ride="carousel">
+  <!--Indicators-->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-2" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-2" data-slide-to="1"></li>
+    <li data-target="#carousel-example-2" data-slide-to="2"></li>
+    <li data-target="#carousel-example-2" data-slide-to="3"></li>
+    <li data-target="#carousel-example-2" data-slide-to="4"></li>
+    <li data-target="#carousel-example-2" data-slide-to="5"></li>
+
+  </ol>
+  <!--/.Indicators-->
+  <!--Slides-->
+  <div class="carousel-inner" role="listbox">
+    <div class="carousel-item active">
+      <div class="view">
+        <img class="d-block w-100" src="img/guarderia.png" alt="First slide">
+        <div class="mask rgba-black-light"></div>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <!--Mask color-->
+      <div class="view">
+        <img class="d-block w-100" src="img/guarderia1.png" alt="Second slide">
+        <div class="mask rgba-black-light"></div>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <!--Mask color-->
+      <div class="view">
+        <img class="d-block w-100" src="img/guarderia2.png" alt="Third slide">
+        <div class="mask rgba-black-light"></div>
+      </div>
     </div>
 
-    <div class="col-md-4">
-      <a class="portfolio-box" href="img/guarderia1.png">
-        <img class="img-fluid" id="timg" src="img/guarderia1.png" alt="">
-      </a>
+    <div class="carousel-item">
+      <!--Mask color-->
+      <div class="view">
+        <img class="d-block w-100" src="img/adiestramiento 1.1.png" alt="Second slide">
+        <div class="mask rgba-black-light"></div>
+      </div>
     </div>
 
-
-
-    <div class="col-md-4">
-      <a class="portfolio-box" href="img/guarderia2.png">
-        <img class="img-fluid" id="timg" src="img/guarderia2.png" alt="">
-      </a>
+    <div class="carousel-item">
+      <!--Mask color-->
+      <div class="view">
+        <img class="d-block w-100" src="img/adiestramiento 2.1.png" alt="Second slide">
+        <div class="mask rgba-black-light"></div>
+      </div>
     </div>
 
-   
-
-    </div>
-  </div>
-
-  <!-- Portfolio Section -->
-  <br>
-<h2 class="text-center text-uppercase text-secondary mb-0">Adiestramiento Básico </br></br></h2>
-
-
-<center>
-  <hr class="divider my-4">
-</center>
-<div id="portfolio">
-
-
-<div class="container-fluid p-0">
-  <div class="row row mb-3">
-    <div class="col-md-4">
-      <a class="portfolio-box" href="img/adiestramiento 1.1.png">
-        <img class="img-fluid" id="timg" src="img/adiestramiento 1.1.png" alt="">
-      </a>
-    </div>
-
-    <div class="col-md-4">
-      <a class="portfolio-box" href="img/adiestramiento 2.1.png">
-        <img class="img-fluid" id="timg" src="img/adiestramiento 2.1.png" alt="">
-      </a>
-    </div>
-
-
-
-
-   
-
+    <div class="carousel-item">
+      <!--Mask color-->
+      <div class="view">
+        <img class="d-block w-100" src="img/transporte1.1.png" alt="Second slide">
+        <div class="mask rgba-black-light"></div>
+      </div>
     </div>
   </div>
-
-   <!-- Portfolio Section -->
-   <br>
-<h2 class="text-center text-uppercase text-secondary mb-0">Servicio de transporte </h2>
-
-
-<center>
-  <hr class="divider my-4">
-</center>
-<div id="portfolio">
-
-
-<div class="container-fluid p-0">
-  <div class="row row mb-3">
-    <div class="col-md-4">
-      <a class="portfolio-box" href="img/transporte.png">
-        <img class="img-fluid" id="timg" src="img/transporte1.1.png" alt="">
-      </a>
-    </div>
-
-    
-   
-
-    </div>
-  </div>
+  <!--/.Slides-->
+  <!--Controls-->
+  <a class="carousel-control-prev" href="#carousel-example-2" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carousel-example-2" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+  <!--/.Controls-->
 </div>
+<!--/.Carousel Wrapper-->
+               
+          
+
+
 </section>
 
 @endsection

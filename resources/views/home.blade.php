@@ -13,11 +13,10 @@
   });
 });
  </script>
+
+
 <!-- Masthead -->
 <div id="demo" class="carousel slide" data-ride="carousel">
-
-
-
 <!-- The slideshow -->
 <div class="container">
 <div class="row">
