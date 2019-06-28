@@ -33,7 +33,7 @@
               <img src="img/banner1.png" alt="1" class="d-block w-100">
             </div>
             <div class="carousel-item">
-              <img src="img/banner2.png" alt="2" class="d-block w-100">
+              <img src="img/banner-2.jpg" alt="2" class="d-block w-100">
             </div>
             <div class="carousel-item">
               <img src="img/banner3.png" alt="3" class="d-block w-100">
@@ -70,7 +70,7 @@
       <div class="media block-6 services text-center d-block">
         <img src="img/cliente1.png">
         <div class="media-body">
-          <h3 class="heading mb-3">Cliente 1</h3>
+          <h3 class="heading mb-3">Venus</h3>
         </div>
       </div>
     </div>
@@ -78,7 +78,7 @@
       <div class="media block-6 services text-center d-block">
         <img src="img/cliente2.png">
         <div class="media-body">
-          <h3 class="heading mb-3">Cliente 2</h3>
+          <h3 class="heading mb-3">Shagui</h3>
         </div>
       </div>
     </div>
@@ -86,7 +86,7 @@
       <div class="media block-6 services text-center d-block">
         <img src="img/cliente3.png">
         <div class="media-body">
-          <h3 class="heading mb-3">Cliente 3</h3>
+          <h3 class="heading mb-3">Jacko</h3>
         </div>
       </div>
     </div>
@@ -94,7 +94,7 @@
       <div class="media block-6 services text-center d-block">
         <img src="img/cliente4.png">
         <div class="media-body">
-          <h3 class="heading mb-3">Cliente 4</h3>
+          <h3 class="heading mb-3">Daffi</h3>
         </div>
       </div>
     </div>
@@ -113,23 +113,17 @@
 
     <div class="col-2-md d-flex align-self-stretch ftco-animate">
       <div class="media block-6 services text-center d-block">
-        <img src="img/Sabias que (1).png" width="500px">
+        <img src="img/Sabias que (1).png" width="400px">
       </div>
     </div>
-    <div class="row-2">
+   
       <div class="col-md d-flex align-self-stretch ftco-animate">
         <div class="media block-6 services text-center d-block">
-          <img src="img/Dato curioso (1).png" width="580px">
+          <img src="img/Dato curioso.png" width="700px">
         </div>
-      </div>
+    
 
-      <div class="col-md d-flex align-self-stretch ftco-animate">
-        <div class="media block-6 services text-center d-block">
-          <img src="img/Dato curioso (1).png" width="580px">
-        </div>
-      </div>
-    </div>
-
+     
 
   </div>
 
@@ -168,6 +162,12 @@
         <div class="col-md-4">
           <a class="portfolio-box" href="img/galeria1.png">
             <img class="img-fluid" id="timg" src="img/galeria1.png" alt="">
+          </a>
+        </div>
+      </div>
+
+        <div class="col-md-4">
+          <a class="portfolio-box" href="img/instalaciones-min.jpg">
           </a>
         </div>
       </div>

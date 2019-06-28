@@ -116,7 +116,9 @@
     <div class="container text-center">
     <a href="{{route('home')}}"><img src="img/logo_3.png"
           style="width: 130px; height: auto;" align="left"></a><h1>CANISCATUS</h1>
-      <h4 class="navbar-brand js-scroll-trigger" >Somos una empresa que brinda calidad y calidez a tu mascota</h4>
+          <div class="container" align="center">
+      <h4>Somos una empresa que brinda calidad y calidez a tu mascota</h4></br>
+    </div>
     </div>
 </div>
   
@@ -163,7 +165,7 @@
           </li>
           <li class="nav-item">
             <a  id="hoverp" class="nav-link js-scroll-trigger" href="{{route('contactenos')}}">
-              Contactenos</a>
+              Contactanos</a>
           </li>
         </ul>
       </div>

@@ -73,7 +73,7 @@
 
         <div class="row">
             <div class="col-lg-7 mx-auto">
-                <h2 class="text-center text-uppercase text-secondary mb-0">contactenos</h2>
+                <h2 class="text-center text-uppercase text-secondary mb-0">contactanos</h2>
                 <center>
                     <hr class="divider my-4">
                 </center>
@@ -85,7 +85,7 @@
                     <div class="control-group">
                         <div class="form-group floating-label-form-group controls mb-0 pb-2">
                             <label><h3>Nombre:</h3></label>
-                            <input class="form-control" id="name" name="nombre" type="" placeholder="Coloce Su Nombre "
+                            <input class="form-control" id="name" name="nombre" type="" placeholder="Coloca tu Nombre "
                                 required="required" data-validation-required-message="Please enter your email address.">
                             <p class="help-block text-danger"></p>
                         </div>
@@ -94,7 +94,7 @@
                         <div class="form-group floating-label-form-group controls mb-0 pb-2">
                             <label><h3>Correo Electronico:</h3></label>
                             <input class="form-control" id="email" name="email" type="email"
-                                placeholder="Coloque su email" required="required"
+                                placeholder="Coloca tu email" required="required"
                                 data-validation-required-message="Please enter your phone number.">
                             <p class="help-block text-danger"></p>
                         </div>

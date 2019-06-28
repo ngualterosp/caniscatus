@@ -83,8 +83,7 @@
         </div>
       </div>
 
-
-
+        
       <div class="row">
 
         <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="100">
@@ -219,7 +218,7 @@
 
 
     </div>
-  </div>
+  
 
 
 
@@ -228,11 +227,13 @@
   <!--Indicators-->
   <ol class="carousel-indicators">
     <li data-target="#carousel-example-2" data-slide-to="0" class="active"></li>
-    <li data-target="#carousel-example-2" data-slide-to="1"></li>
-    <li data-target="#carousel-example-2" data-slide-to="2"></li>
-    <li data-target="#carousel-example-2" data-slide-to="3"></li>
-    <li data-target="#carousel-example-2" data-slide-to="4"></li>
-    <li data-target="#carousel-example-2" data-slide-to="5"></li>
+    <li data-target="#carousel-example-2" data-slide-to="1" class="active"></li>
+    <li data-target="#carousel-example-2" data-slide-to="2" class="active"></li>
+    <li data-target="#carousel-example-2" data-slide-to="3" class="active"></li>
+    <li data-target="#carousel-example-2" data-slide-to="4" class="active"></li>
+    <li data-target="#carousel-example-2" data-slide-to="5" class="active"></li>
+    <li data-target="#carousel-example-2" data-slide-to="6" class="active"></li>
+    <li data-target="#carousel-example-2" data-slide-to="7" class="active"></li>
 
   </ol>
   <!--/.Indicators-->
@@ -262,7 +263,7 @@
     <div class="carousel-item">
       <!--Mask color-->
       <div class="view">
-        <img class="d-block w-100" src="img/adiestramiento 1.1.png" alt="Second slide">
+        <img class="d-block w-100" src="img/adiestramiento 1.1.png" alt="Fourth slide">
         <div class="mask rgba-black-light"></div>
       </div>
     </div>
@@ -270,7 +271,7 @@
     <div class="carousel-item">
       <!--Mask color-->
       <div class="view">
-        <img class="d-block w-100" src="img/adiestramiento 2.1.png" alt="Second slide">
+        <img class="d-block w-100" src="img/adiestramiento 2.1.png" alt="Fifth slide">
         <div class="mask rgba-black-light"></div>
       </div>
     </div>
@@ -278,7 +279,23 @@
     <div class="carousel-item">
       <!--Mask color-->
       <div class="view">
-        <img class="d-block w-100" src="img/transporte1.1.png" alt="Second slide">
+        <img class="d-block w-100" src="img/transporte1.1.png" alt="Sixth slide">
+        <div class="mask rgba-black-light"></div>
+      </div>
+    </div>
+
+    <div class="carousel-item">
+      <!--Mask color-->
+      <div class="view">
+        <img class="d-block w-100" src="img/HIDROTERAPIA.jpg" alt="Seventh slide">
+        <div class="mask rgba-black-light"></div>
+      </div>
+    </div>
+
+    <div class="carousel-item">
+      <!--Mask color-->
+      <div class="view">
+        <img class="d-block w-100" src="img/PISCINA.jpg" alt="Eighth slide">
         <div class="mask rgba-black-light"></div>
       </div>
     </div>
@@ -297,6 +314,7 @@
 </div>
 <!--/.Carousel Wrapper-->
 
+</div>
 
 
 
