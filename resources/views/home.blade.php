@@ -61,7 +61,7 @@
 				<div class="row justify-content-center pb-5">
           <div class="col-md-12 heading-section text-center ftco-animate">
           <div class="section-title" >
-						<h1 aling="left">ALGUNOS DE NUESTROS AFILIADOS</h1>
+						<h1 aling="left">ALGUNOS DE NUESTROS CLIENTES</h1>
           </div>
             </div>
         </div>

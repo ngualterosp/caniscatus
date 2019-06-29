@@ -54,20 +54,8 @@
 
 				<div>
 
-        <div class="section-title" >
-          </div>
-          <hr class="divider my-4">
-					<div class="mb-50 wow fadeIn" data-wow-duration=".8s">
-						<h4 align="justify">
-            ¡Los animales son compañía, vida y alegría… disfrútalos, respétalos y protégelos!
-                <br>Conoce más de Caniscatus:
-            </h4>
-						
-					</div>
-					
-				</div>
-			</div>
-		</div>
+                <img src="img/Frase galeria.png" width="100%" alt="">
+
 <br>
 <br>
 <div id="portfolio">
