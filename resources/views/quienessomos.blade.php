@@ -65,17 +65,19 @@ experiencia agradable a su mascota; haciéndolo sentir como en casa.
 
       <div class="col-sm-7" id="p">
         <div class="card-block">
-          <h1> MISIÓN </h1>
+          <center>  <h1> MISIÓN </h1>  </center> 
           <hr align="left" noshade="noshade" size="10" width="80%" />
+           <center> <div class="container"> 
           <h4 align="justify">
             Es una empresa que provee servicios de Manejo y Cuidado animal, con la más alta calidad y calidez. Así mismo, incentivamos la corresponsabilidad
             y sensibilidad frente a la vida y cuidado de los animales de compañía dentro y fuera de casa.
           </h4>
+          </div> </center>
         </div>
       </div>
 
       <div class="col-sm-5">
-        <img class="d-block w-100" src="img/mision.jpg" alt="">
+        <img class="d-block w-100" src="img/imagen_mision.jpg" alt="">
       </div>
     </div>
   </div>
@@ -86,26 +88,19 @@ experiencia agradable a su mascota; haciéndolo sentir como en casa.
     <div class="row ">
 
       <div class="col-sm-5">
-        <img class="d-block w-100" src="img/vision.jpg" alt="">
+        <img class="d-block w-100" src="img/imagen_vision.jpg" alt="">
       </div>
 
       <div class="col-sm-7" id="p">
         <div class="card-block">
-          <h1 id="estilo2"> VISIÓN </h1>
+           <center> <h1 id="estilo2"> VISIÓN </h1>  </center> 
           <hr align="left" noshade="noshade" size="10" width="80%" />
+         <center> <div class="container"> 
           <h4 align="justify" id="estilo2">
             Será la mejor empresa proveedora de servicios de manejo y cuidado de los animales de compañía, cumpliendo con los Estándares de Calidad y Bienestar Animal a nivel
             Distrital y Nacional. Siendo líderes en el gremio de las Guarderías Caninas y Hoteles Caninos y Felinos.
-<<<<<<< HEAD
           </h4>
-=======
-</h4>
-						</br></br>
-					</div>
-          </div>
-
-          
->>>>>>> master
+          </div> </center>
         </div>
       </div>
 

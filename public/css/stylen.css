@@ -15,6 +15,9 @@ body {
   color: #fff;
   background: #ff0000; }
 
+
+  
+
 a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
@@ -913,7 +916,7 @@ textarea.form-control {
     -ms-transform: rotateY(0deg);
     background: rgb(224,240,216)
     z-index: 2;
-    background-size: cover;
+    background-size: 340px;
     background-position: center center;
     background-repeat: no-repeat; }
     .block-2 .front:before {
