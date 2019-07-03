@@ -33,7 +33,7 @@
               <img src="img/banner1.png" alt="1" class="d-block w-100">
             </div>
             <div class="carousel-item">
-              <img src="img/banner-2.jpg" alt="2" class="d-block w-100">
+              <img src="img/fotos baner (1) (1).png" alt="2" class="d-block w-100">
             </div>
             <div class="carousel-item">
               <img src="img/banner3.png" alt="3" class="d-block w-100">
@@ -61,7 +61,7 @@
   <div class="row justify-content-center pb-5">
     <div class="col-md-12 heading-section text-center ftco-animate">
       <div class="section-title">
-        <h1 aling="left">ALGUNOS DE NUESTROS AFILIADOS</h1>
+        <h1 aling="left">ALGUNOS DE NUESTROS CLIENTES</h1>
       </div>
     </div>
   </div>
@@ -126,63 +126,90 @@
 
 
     </div>
+    <div class="colorclaro">
 
-  </div>
-
-
-
-
-
-  <!-- Portfolio Section -->
-
-  <div id="portfolio" class="colorclaro">
-
-    <div class="container">
-      <div class="section-title">
-        <center>
-          <h1>NUESTRAS INSTALACIONES</h1>
-        </center>
-      </div>
-      <div class="container-fluid p-0">
-        <div class="row row mb-3">
-          <div class="col-md-4">
-            <a class="portfolio-box" href="img/galeria7.png">
-              <img class="img-fluid" id="timg" src="img/galeria7.png" alt="">
-            </a>
-          </div>
-
-          <div class="col-md-4">
-            <a class="portfolio-box" href="img/galeria3.png">
-              <img class="img-fluid" id="timg" src="img/galeria3.png" alt="">
-            </a>
-          </div>
-
-
-
-          <div class="col-md-4">
-            <a class="portfolio-box" href="img/galeria1.png">
-              <img class="img-fluid" id="timg" src="img/galeria1.png" alt="">
-            </a>
-          </div>
+      <div class="container">
+        <div class="section-title">
+          <center>
+            <h1>NUESTRAS INSTALACIONES</h1>
+          </center>
         </div>
+        <!--Carousel Wrapper-->
+        <div id="carousel-example-2" class="carousel slide carousel-fade z-depth-1-half" data-ride="carousel">
+          <!--Indicators-->
+          <ol class="carousel-indicators">
+            <li data-target="#carousel-example-2" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-example-2" data-slide-to="1" class="active"></li>
+            <li data-target="#carousel-example-2" data-slide-to="2" class="active"></li>
+            <li data-target="#carousel-example-2" data-slide-to="3" class="active"></li>
+          </ol>
+          <!--/.Indicators-->
+          <!--Slides-->
+          <div class="carousel-inner" role="listbox">
+            <div class="carousel-item active">
+              <div class="view">
+                <img class="d-block w-100" src="img/galeria7.png" alt="First slide">
+                <div class="mask rgba-black-light"></div>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <!--Mask color-->
+              <div class="view">
+                <img class="d-block w-100" src="img/galeria3.png" alt="Second slide">
+                <div class="mask rgba-black-light"></div>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <!--Mask color-->
+              <div class="view">
+                <img class="d-block w-100" src="img/galeria1.png" alt="Third slide">
+                <div class="mask rgba-black-light"></div>
+              </div>
+            </div>
 
-        <div class="col-md-4">
-          <a class="portfolio-box" href="img/instalaciones-min.jpg">
+            <div class="carousel-item">
+              <!--Mask color-->
+              <div class="view">
+                <img class="d-block w-100" src="img/instalaciones-min.jpg" alt="Fourth slide">
+                <div class="mask rgba-black-light"></div>
+              </div>
+            </div>
+
+          </div>
+          <!--/.Slides-->
+          <!--Controls-->
+          <a class="carousel-control-prev" href="#carousel-example-2" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
           </a>
+          <a class="carousel-control-next" href="#carousel-example-2" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+          <!--/.Controls-->
         </div>
+        <!--/.Carousel Wrapper-->
+
       </div>
-
-
     </div>
   </div>
-</div>
-<div>
-  <div class="container">
-    </br></br>
-    <img src="img/Contacto-Home.png" width="100%">
+
+
+
+
+
+
+
+
+
+  <div>
+    <div class="container">
+      </br></br>
+      <img src="img/Contacto-Home.png" width="100%">
+    </div>
+
   </div>
 
-</div>
 
 
 
@@ -201,5 +228,4 @@
 
 
 
-
-@endsection
+  @endsection
