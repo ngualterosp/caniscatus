@@ -98,6 +98,7 @@
         </div>
       </div>
     </div>
+  
 
   </div>
   <img src="img/Frase celebre (2).png" width="100%" alt="">
@@ -119,7 +120,7 @@
    
       <div class="col-md d-flex align-self-stretch ftco-animate">
         <div class="media block-6 services text-center d-block">
-          <img src="img/Dato curioso (4).png" width="700px">
+          <img src="img/Sabias que (1).png" width="400px">
         </div>
     
 
