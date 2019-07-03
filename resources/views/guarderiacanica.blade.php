@@ -164,9 +164,9 @@
 
 
                 <h6>
-                
-                    <p align="justify">Caniscatus S.A.S., te brinda el servicio de adiestramiento básico enmarcado en
-                      los siguientes comandos:</p>
+
+                  <p align="justify">Caniscatus S.A.S., te brinda el servicio de adiestramiento básico enmarcado en
+                    los siguientes comandos:</p>
                 </h6>
                 <br>
                 <br>
@@ -182,7 +182,7 @@
                   <li> <img src="img/dog-paw.png" width="15px">Permanencia acostado </li>
                 </ul>
 
-             
+
 
 
               </blockquote>

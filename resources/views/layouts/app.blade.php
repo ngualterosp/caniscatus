@@ -200,8 +200,7 @@
 
 
   <!-- Footer -->
-  <footer class="bg-light py-5" id="footer2">
-
+  <footer id="footer2">
     <div class="container">
       <div class="small text-center text-muted"><a href="https://api.whatsapp.com/send?phone=573508449157"><img
             src="img/whatsapp.png" width="35px" />
