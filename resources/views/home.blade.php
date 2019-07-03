@@ -66,7 +66,7 @@
     </div>
   </div>
   <div class="row">
-    <div class="col-md d-flex align-self-stretch ftco-animate">
+    <div class="col-md">
       <div class="media block-6 services text-center d-block">
         <img src="img/cliente1.png">
         <div class="media-body">
@@ -74,7 +74,7 @@
         </div>
       </div>
     </div>
-    <div class="col-md d-flex align-self-stretch ftco-animate">
+    <div class="col-md ">
       <div class="media block-6 services text-center d-block">
         <img src="img/cliente2.png">
         <div class="media-body">
@@ -82,7 +82,7 @@
         </div>
       </div>
     </div>
-    <div class="col-md d-flex align-self-stretch ftco-animate">
+    <div class="col-md ">
       <div class="media block-6 services text-center d-block">
         <img src="img/cliente3.png">
         <div class="media-body">
@@ -90,7 +90,7 @@
         </div>
       </div>
     </div>
-    <div class="col-md d-flex align-self-stretch ftco-animate">
+    <div class="col-md ">
       <div class="media block-6 services text-center d-block">
         <img src="img/cliente4.png">
         <div class="media-body">
@@ -111,60 +111,60 @@
   </div>
   <div class="row">
 
-    <div class="col-2-md d-flex align-self-stretch ftco-animate">
+    <div class="col-6">
       <div class="media block-6 services text-center d-block">
         <img src="img/Sabias que (1).png" width="400px">
       </div>
     </div>
-   
-      <div class="col-md d-flex align-self-stretch ftco-animate">
-        <div class="media block-6 services text-center d-block">
-          <img src="img/Dato curioso.png" width="700px">
-        </div>
-    
 
-     
+    <div class="col-6">
+      <div class="media block-6 services text-center d-block">
+        <img src="img/Dato curioso.png" width="700px">
+      </div>
+
+
+
+
+    </div>
 
   </div>
 
-</div>
 
 
 
 
+  <!-- Portfolio Section -->
 
-<!-- Portfolio Section -->
+  <div id="portfolio" class="colorclaro">
 
-<div id="portfolio" class="colorclaro">
-
-  <div class="container">
-    <div class="section-title">
-      <center>
-        <h1>NUESTRAS INSTALACIONES</h1>
-      </center>
-    </div>
-    <div class="container-fluid p-0">
-      <div class="row row mb-3">
-        <div class="col-md-4">
-          <a class="portfolio-box" href="img/galeria7.png">
-            <img class="img-fluid" id="timg" src="img/galeria7.png" alt="">
-          </a>
-        </div>
-
-        <div class="col-md-4">
-          <a class="portfolio-box" href="img/galeria3.png">
-            <img class="img-fluid" id="timg" src="img/galeria3.png" alt="">
-          </a>
-        </div>
-
-
-
-        <div class="col-md-4">
-          <a class="portfolio-box" href="img/galeria1.png">
-            <img class="img-fluid" id="timg" src="img/galeria1.png" alt="">
-          </a>
-        </div>
+    <div class="container">
+      <div class="section-title">
+        <center>
+          <h1>NUESTRAS INSTALACIONES</h1>
+        </center>
       </div>
+      <div class="container-fluid p-0">
+        <div class="row row mb-3">
+          <div class="col-md-4">
+            <a class="portfolio-box" href="img/galeria7.png">
+              <img class="img-fluid" id="timg" src="img/galeria7.png" alt="">
+            </a>
+          </div>
+
+          <div class="col-md-4">
+            <a class="portfolio-box" href="img/galeria3.png">
+              <img class="img-fluid" id="timg" src="img/galeria3.png" alt="">
+            </a>
+          </div>
+
+
+
+          <div class="col-md-4">
+            <a class="portfolio-box" href="img/galeria1.png">
+              <img class="img-fluid" id="timg" src="img/galeria1.png" alt="">
+            </a>
+          </div>
+        </div>
 
         <div class="col-md-4">
           <a class="portfolio-box" href="img/instalaciones-min.jpg">
@@ -176,9 +176,6 @@
     </div>
   </div>
 </div>
-
-
-
 <div>
   <div class="container">
     </br></br>
