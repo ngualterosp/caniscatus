@@ -248,7 +248,7 @@ input:-webkit-autofill:focus {
 **/
 
 .box {
-    padding: 50px 30px;
+    padding: 5px 5px;
     text-align: center;
     -webkit-box-shadow: 0 0 0 0 #ffffff;
     box-shadow: 0 0 0 0 #ffffff;

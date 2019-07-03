@@ -42,7 +42,7 @@
             flex-basis: 0;
             -ms-flex-positive: 1;
             flex-grow: 1;
-            max-width: 50%;
+            max-width: 65%;
         }
     </style>
     <!-- Services Section -->
