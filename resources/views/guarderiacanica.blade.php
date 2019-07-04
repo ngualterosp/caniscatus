@@ -173,6 +173,7 @@
                 <br>
                 <br>
                 <ul>
+                  <br>
                   <li><img src="img/dog-paw.png" width="15px">Sentarse </li>
                   <li> <img src="img/dog-paw.png" width="15px">Acostarse </li>
                   <li><img src="img/dog-paw.png" width="15px">Dar la mano derecha </li>
